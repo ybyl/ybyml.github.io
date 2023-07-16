@@ -43,6 +43,9 @@ content:
         - name: 在
           description: 自
           url: h
+        - name: 科技lion的博客
+          description: 科技lion的Google博客
+          url: https://kejilion.blogspot.com/
         - name: 在线书签管理工具
           description: 自己把edge收藏夹上传上去了
           url: https://b.lucq.fun
